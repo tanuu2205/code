@@ -1,4 +1,4 @@
-export REGION=
+export REGION=europe-west1
 
 gcloud auth list
 
